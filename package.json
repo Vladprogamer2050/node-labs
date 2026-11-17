@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "lab11": "node lab-11-setup/index.js"
+    "lab14:task1": "node lab-14-fs/task1.js",
+    "lab14:task2": "node lab-14-fs/task2.js",
+    "lab14:task3": "node lab-14-fs/task3.js",
+    "lab14:task4": "node lab-14-fs/task4.js",
+    "lab14:task5": "node lab-14-fs/task5.js"
   },
   "keywords": [
     "nodejs",
