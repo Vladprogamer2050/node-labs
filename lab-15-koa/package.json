@@ -1,0 +1,17 @@
+{
+  "name": "lab-15-koa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lab 15: simple server on Koa.js (HTML page, users CRUD, middleware, students API)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Evdokimov Vladislav Evgenievich, group 478",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/router": "^15.7.1",
+    "koa": "^3.3.0",
+    "koa-bodyparser": "^4.4.1"
+  }
+}
