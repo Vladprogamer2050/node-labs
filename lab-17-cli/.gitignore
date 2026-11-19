@@ -1,0 +1,6 @@
+node_modules/
+dist/
+coverage/
+.work/
+*.log
+bin/lab17-cli.exe
