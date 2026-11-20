@@ -1,0 +1,25 @@
+{
+  "name": "lab-18-os",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lab 18: exploring the Node.js os module (platform, CPU, memory, network, user, real-time monitor)",
+  "main": "os-info.js",
+  "scripts": {
+    "info": "node os-info.js",
+    "resources": "node os-resources.js",
+    "network": "node os-network.js",
+    "monitor": "node os-monitor.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "nodejs",
+    "os",
+    "monitoring",
+    "lab"
+  ],
+  "author": "Evdokimov Vladislav Evgenievich, group 478",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
