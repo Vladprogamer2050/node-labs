@@ -1,0 +1,27 @@
+{
+  "name": "lab-19-events",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lab 19: exploring the Node.js events module (EventEmitter, on/once, inheritance, newListener/removeListener, EventBus)",
+  "main": "event-bus.js",
+  "scripts": {
+    "basic": "node events-basic.js",
+    "once": "node events-once.js",
+    "class": "node events-class.js",
+    "advanced": "node events-advanced.js",
+    "bus": "node event-bus.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "nodejs",
+    "events",
+    "eventemitter",
+    "eventbus",
+    "lab"
+  ],
+  "author": "Evdokimov Vladislav Evgenievich, group 478",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
